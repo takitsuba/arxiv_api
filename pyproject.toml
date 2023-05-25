@@ -8,6 +8,9 @@ packages = [{include = "arxiv_api"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+arxiv = "^1.4.7"
+jupyterlab = "^4.0.0"
+pandas = "^2.0.1"
 
 
 [build-system]
